@@ -17,5 +17,5 @@ class Settings:
         self.item_label = 'item:'
         self.amount_label = 'amount:'
 
-        #列表设置
+        #表格设置
         self.filename = 'data/item1.xlsx'
